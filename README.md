@@ -7,7 +7,7 @@
 
   <br />
   <p>
-    Welcome to my corner of GitHub! I'm a developer from Kathmandu, Nepal, specializing in the React/Next.js ecosystem and high-performance serverless architectures. 
+    Welcome to my corner of GitHub! I'm a developer specializing in the React/Next.js ecosystem and high-performance serverless architectures. 
   </p>
 
   <div>
