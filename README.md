@@ -1,36 +1,53 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Jimmy%20Sherpa&fontSize=60&fontAlignY=35&desc=Full-Stack%20&%20Frontend%20Developer&descAlignY=55&descSize=20&animation=twinkling" />
 
-# Hi there, I'm Jimmy 👋
+  <br />
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Translating+ideas+into+UIs;Edge-native+serverless+dev" alt="Typing SVG" /></a>
 
-<code>Full-Stack & Frontend Web Developer</code>
+  <br />
+  <p>
+    Welcome to my corner of GitHub! I'm a developer from Kathmandu, Nepal, specializing in the React/Next.js ecosystem and high-performance serverless architectures. 
+  </p>
 
-<br />
-
-I specialize in building scalable web applications, modern UIs, and serverless infrastructure.<br />
-Check out my pinned repositories below to see my work!
-
-<br />
-
-<a href="mailto:jimmykarsang@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://portfolio-bay-two-ck7m8w8oo0.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/jimmy-sherpa-3106a029a">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br />
-<br />
-
+  <div>
+    <a href="mailto:jimmykarsang@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://portfolio-bay-two-ck7m8w8oo0.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/jimmy-sherpa-3106a029a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
 </div>
 
-### 💻 Tech Stack
+<br />
 
-| Frontend | Backend & API | Database | Tools & Cloud |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" /> | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> |
+### 🚀 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs&perline=7" alt="Frontend Skills" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,cloudflare,vercel,git&perline=7" alt="Backend and Cloud" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman&perline=7" alt="Database and Tools" />
+  </a>
+</div>
+
+<br />
+
+### ⚡ Highlighted Projects
+
+* 🌍 **[Sagar Recruitment Portal](https://sagarjob.com.np)** — A live, tri-lingual international recruitment platform built with Next.js 15 and Cloudflare Workers (sub-50ms global routing) featuring a custom client-side PDF CV builder.
+* 🏬 **OAS (Store Operations Framework)** — Decentralized monitoring dashboard designed for real-time fiscal oversight and expense tracking across retail units.
+* 🧠 **OpsMind** — An AI-powered document intelligence suite leveraging OpenAI & Gemini Vision APIs to digitize records with 95%+ accuracy.
+* 📊 **POS Data Ingestion Pipeline** — A Next.js + FastAPI full-stack pipeline that processes raw XML files from Point-of-Sale systems into a serverless Neon database.
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" />
+</div>
