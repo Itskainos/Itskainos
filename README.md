@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Jimmy%20Sherpa&fontSize=60&fontAlignY=35&desc=Full-Stack%20&%20Frontend%20Developer&descColor=E2E8F0&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Jimmy%20Sherpa&fontSize=60&fontAlignY=35&desc=Full-Stack%20&%20Frontend%20Developer&descAlignY=55&descSize=20&animation=twinkling" />
 
   <br />
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E2E8F0&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Translating+ideas+into+UIs;Edge-native+serverless+dev" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Translating+ideas+into+UIs;Edge-native+serverless+dev" alt="Typing SVG" /></a>
 
   <br />
   <p>
@@ -12,13 +12,13 @@
 
   <div>
     <a href="mailto:jimmykarsang@gmail.com">
-      <img src="https://img.shields.io/badge/Email-27272A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://portfolio-bay-two-ck7m8w8oo0.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/jimmy-sherpa-3106a029a">
-      <img src="https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
 </div>
@@ -49,5 +49,5 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" />
 </div>
