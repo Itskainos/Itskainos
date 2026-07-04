@@ -1,36 +1,36 @@
-<h1 align="center">Hi, I'm Jimmy Sherpa 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack & Frontend Web Developer</h3>
+# Hi there, I'm Jimmy 👋
 
-<p align="center">
-  I focus on building high-performance, responsive, and accessible web applications. Combining strong programming fundamentals with a modern web stack, I specialize in the React/Next.js ecosystem, edge-native serverless deployments, and translating complex product ideas into clean, intuitive user interfaces.
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-* **Frontend & UI:** React (v19), Next.js 15 (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3
-* **Backend & Edge:** Node.js, Express.js, Cloudflare Workers (V8 Isolates), Python, FastAPI, RESTful API Architecture
-* **Databases & Storage:** Neon Serverless PostgreSQL, PostgreSQL, MongoDB, Prisma ORM, Vercel Blob CDN
-* **Workflow & Integrations:** Git, Vercel, Netlify, Postman API Testing, OpenAI & Gemini API Integration
-
----
-
-## 🚀 Highlighted Projects
-
-* **[Sagar Recruitment Portal (sagarjob.com.np)](https://sagarjob.com.np)** — A live, tri-lingual international recruitment platform built with Next.js 15 and Cloudflare Workers, featuring sub-50ms global edge routing and a zero-dependency client-side PDF CV builder.
-* **OAS (Store Operations Framework)** — A multi-location web application and decentralized monitoring dashboard designed for real-time fiscal oversight and expense tracking across retail units.
-* **OpsMind** — An AI-powered document and meeting intelligence web suite leveraging OpenAI and Gemini Vision APIs to digitize records and extract actionable tasks with 95%+ accuracy.
-* **POS Data Ingestion Pipeline** — A full-stack pipeline (Next.js + FastAPI) that intercepts raw XML files from POS systems, parses them efficiently, and stores the structured data in a serverless PostgreSQL database via Prisma.
-
----
-
-## 📫 How to Reach Me
-
-* **Portfolio:** [https://portfolio-bay-two-ck7m8w8oo0.vercel.app/](https://portfolio-bay-two-ck7m8w8oo0.vercel.app/)
-* **Email:** [jimmykarsang@gmail.com](mailto:jimmykarsang@gmail.com)
-* **LinkedIn:** [linkedin.com/in/jimmy-sherpa-3106a029a](https://www.linkedin.com/in/jimmy-sherpa-3106a029a)
-* **Location:** Kathmandu, Nepal
+<code>Full-Stack & Frontend Web Developer</code>
 
 <br />
+
+I specialize in building scalable web applications, modern UIs, and serverless infrastructure.<br />
+Check out my pinned repositories below to see my work!
+
+<br />
+
+<a href="mailto:jimmykarsang@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://portfolio-bay-two-ck7m8w8oo0.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/jimmy-sherpa-3106a029a">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br />
+<br />
+
+</div>
+
+### 💻 Tech Stack
+
+| Frontend | Backend & API | Database | Tools & Cloud |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" /> | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> |
